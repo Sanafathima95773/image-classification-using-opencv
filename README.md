@@ -213,15 +213,15 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
-1.Eagle Greyscale
+-1.Eagle Greyscale
   <img width="852" height="663" alt="image" src="https://github.com/user-attachments/assets/a4c1fb4a-2307-4db3-b970-e9db1abd911c" />
-2.Eagle PNG
+-2.Eagle PNG
   <img width="861" height="678" alt="image" src="https://github.com/user-attachments/assets/cb8c0087-6a42-467b-8b25-2ecd34dd950f" />
-3.Cropped Eagle
+-3.Cropped Eagle
   <img width="746" height="692" alt="image" src="https://github.com/user-attachments/assets/202b66a6-88cf-49ed-a386-2dbb7623b89e" />
-4.Flipped Eagle
+-4.Flipped Eagle
   <img width="952" height="687" alt="image" src="https://github.com/user-attachments/assets/43d9d313-c55f-4cd8-b50a-a57a20833fcd" />
-5.Apollo 11 Saturn V Launch Annotated Image
+-5.Apollo 11 Saturn V Launch Annotated Image
   <img width="967" height="533" alt="image" src="https://github.com/user-attachments/assets/f337e65d-158c-4052-97c2-e9f6866c9dcd" />
 
   **ii)** Adjust Image Brightness.
