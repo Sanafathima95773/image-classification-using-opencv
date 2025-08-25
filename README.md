@@ -224,16 +224,16 @@ plt.show()
 5.Apollo 11 Saturn V Launch Annotated Image
   <img width="967" height="533" alt="image" src="https://github.com/user-attachments/assets/f337e65d-158c-4052-97c2-e9f6866c9dcd" />
 
-- **ii)** Adjust Image Brightness.
-- <img width="1032" height="275" alt="image" src="https://github.com/user-attachments/assets/77e5f56c-92ab-4713-8466-9abf7557d70a" />
+  **ii)** Adjust Image Brightness.
+  <img width="1032" height="275" alt="image" src="https://github.com/user-attachments/assets/77e5f56c-92ab-4713-8466-9abf7557d70a" />
 
-- 
-- **iii)** Modify Image Contrast.
-- <img width="1040" height="272" alt="image" src="https://github.com/user-attachments/assets/9f042955-dfff-4c92-9d6b-82c61cb27c4a" />
+ 
+ **iii)** Modify Image Contrast.
+  <img width="1040" height="272" alt="image" src="https://github.com/user-attachments/assets/9f042955-dfff-4c92-9d6b-82c61cb27c4a" />
 
-- **iv)** Generate Third Image Using Bitwise Operations.
-- Split BGR Image
-- <img width="1032" height="285" alt="image" src="https://github.com/user-attachments/assets/280530ad-1083-401e-bc1a-80c2a0b55653" />
+ **iv)** Generate Third Image Using Bitwise Operations.
+1.Split BGR Image
+  <img width="1032" height="285" alt="image" src="https://github.com/user-attachments/assets/280530ad-1083-401e-bc1a-80c2a0b55653" />
 2.Merged RGB Image
   <img width="610" height="505" alt="image" src="https://github.com/user-attachments/assets/7ac048fb-4997-4b08-960f-ca6206bf6a36" />
 3.Split HSV Image
