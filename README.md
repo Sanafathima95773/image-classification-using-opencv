@@ -213,33 +213,9 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
--1.Eagle Greyscale
-  <img width="852" height="663" alt="image" src="https://github.com/user-attachments/assets/a4c1fb4a-2307-4db3-b970-e9db1abd911c" />
--2.Eagle PNG
-  <img width="861" height="678" alt="image" src="https://github.com/user-attachments/assets/cb8c0087-6a42-467b-8b25-2ecd34dd950f" />
--3.Cropped Eagle
-  <img width="746" height="692" alt="image" src="https://github.com/user-attachments/assets/202b66a6-88cf-49ed-a386-2dbb7623b89e" />
--4.Flipped Eagle
-  <img width="952" height="687" alt="image" src="https://github.com/user-attachments/assets/43d9d313-c55f-4cd8-b50a-a57a20833fcd" />
--5.Apollo 11 Saturn V Launch Annotated Image
-  <img width="967" height="533" alt="image" src="https://github.com/user-attachments/assets/f337e65d-158c-4052-97c2-e9f6866c9dcd" />
-
   **ii)** Adjust Image Brightness.
-  <img width="1032" height="275" alt="image" src="https://github.com/user-attachments/assets/77e5f56c-92ab-4713-8466-9abf7557d70a" />
-
- 
  **iii)** Modify Image Contrast.
-  <img width="1040" height="272" alt="image" src="https://github.com/user-attachments/assets/9f042955-dfff-4c92-9d6b-82c61cb27c4a" />
-
  **iv)** Generate Third Image Using Bitwise Operations.
-1.Split BGR Image
-  <img width="1032" height="285" alt="image" src="https://github.com/user-attachments/assets/280530ad-1083-401e-bc1a-80c2a0b55653" />
-2.Merged RGB Image
-  <img width="610" height="505" alt="image" src="https://github.com/user-attachments/assets/7ac048fb-4997-4b08-960f-ca6206bf6a36" />
-3.Split HSV Image
- <img width="1021" height="273" alt="image" src="https://github.com/user-attachments/assets/b4618930-be71-49ac-adc9-01718345172a" />
-4. Merged HSV Image
- <img width="1010" height="421" alt="image" src="https://github.com/user-attachments/assets/d7959a3e-4fa0-4a4b-8ad9-5240ce154230" />
 
 
 
